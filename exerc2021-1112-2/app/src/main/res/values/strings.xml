@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JogoAdivinhacao</string>
+
+    <string name="btnAdivinhar">Adivinhar</string>
+    <string name="vl_maior">Tente um número maior</string>
+    <string name="vl_menor">Tente um número menor</string>
+
+    <string name="btnVoltar">Voltar</string>
+    <string name="res">O número correto é:</string>
+    <!-- <string name=""></string>-->
+</resources>
