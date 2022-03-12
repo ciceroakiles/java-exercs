@@ -1,3 +1,3 @@
-# java-exercs
+# java-exercs-2021
 
-Conjunto de exercícios feitos em Java.
+Conjunto de exercícios feitos em Java (2021).
