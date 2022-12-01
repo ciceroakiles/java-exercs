@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "port1": 3306,
+  "port2": 3307,
+  "port3": 3308,
+  "port4": 3309,
+  "port5": 3310
+}
